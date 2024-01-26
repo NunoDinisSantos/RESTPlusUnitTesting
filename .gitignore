@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Movies.Api/bin/Debug/net8.0
+/Movies.Api/.vs/Movies.Api/FileContentIndex
+/Movies.Api/.vs/Movies.Api/v17
+/Movies.Api/obj
+/Movies.Application/bin/Debug/net8.0
+/Movies.Application/obj
+/Movies.Contract/bin/Debug/net8.0
+/Movies.Contract/obj
+/.vs
